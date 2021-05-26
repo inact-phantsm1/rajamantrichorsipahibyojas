@@ -1,4 +1,4 @@
-﻿# Raja(Prince)-Mantri(Minister)-Chor(Thief)-Sipahi(Police)
+# Raja(Prince)-Mantri(Minister)-Chor(Thief)-Sipahi(Police)
 
 ### Live Game Link
 [Current live version!](https://prashantchhabra89.github.io/Raja-Mantri-Chor-Sipahi)
@@ -25,12 +25,3 @@
 * npm start</br>
 * It will open browser with app running at localhost:3000/</br>
 * To stop in cmd use ctrl+c</br>
-#### How deploy on github?
-* Edit package.json by adding a new field named homepage: "homepage": "https://github-username.github.io/projectrepo"</br>
-* npm run build</br>
-* npm install --save-dev gh-pages</br>
-* Add a new script to the scripts field inside package.json. Let’s call the script deploy : "deploy" : "npm run build&&gh-pages -d build"</br>
-* npm run deploy</br>
-* Now go to repo page on github->settings</br>
-* it should say "Your site is published at ...."</br>
-
