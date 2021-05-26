@@ -25,3 +25,5 @@
 * npm start</br>
 * It will open browser with app running at localhost:3000/</br>
 * To stop in cmd use ctrl+c</br>
+
+Thanks if any suggestions contact ojas08singh@gmail.com
